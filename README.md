@@ -10,4 +10,6 @@
 [코드+실행 파일](https://github.com/Vida0822/MachinLearning_Basic/blob/83dff24ca27bdf23535c413089a91e4ca3deaeb9/BreamAndSmelt.ipynb) <br> 
 <br> 
 
-
+##### 3. 데이터 전처리 <br>
+[코드+실행 파일](https://github.com/Vida0822/MachinLearning_Basic/blob/7f6dd47b1a7c3f1e1d2d5efbd10155196bb9c295/preprocessiong_data.ipynb) <br>
+<br>
