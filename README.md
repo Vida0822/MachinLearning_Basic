@@ -6,7 +6,7 @@
 [참고](https://heytech.tistory.com/393) 
 <br> 
 
-##### w. 2. k-최근접 이웃 분류 모델 <br> 
+##### 2. k-최근접 이웃 분류 모델 <br> 
 [코드+실행 파일](https://github.com/Vida0822/MachinLearning_Basic/blob/83dff24ca27bdf23535c413089a91e4ca3deaeb9/BreamAndSmelt.ipynb) <br> 
 <br> 
 
