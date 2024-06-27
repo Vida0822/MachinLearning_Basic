@@ -1,6 +1,6 @@
 # MachinLearning & DeepLearning 
 머신러닝, 딥러닝 공부용 레포지토리
-![artificial-intelligence_4616790](https://github.com/Vida0822/Algorithm_Study/assets/132312673/3bd4c17a-42ec-4fab-b50b-949852cdc08d)
+<img src = "https://github.com/Vida0822/Algorithm_Study/assets/132312673/3bd4c17a-42ec-4fab-b50b-949852cdc08d" width = "200"></img>
 
 
 <br> <br> <br>
