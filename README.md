@@ -1,5 +1,8 @@
 # MachinLearning & DeepLearning 
-머신러닝, 딥러닝 입문 공부용 레포지토리
+머신러닝, 딥러닝 공부용 레포지토리
+![artificial-intelligence_4616790](https://github.com/Vida0822/Algorithm_Study/assets/132312673/3bd4c17a-42ec-4fab-b50b-949852cdc08d)
+
+
 <br> <br> <br>
 ## MachinLearning
 데이터 세트를 바탕으로 규칙을 스스로 찾아낸다 <br>
